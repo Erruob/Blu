@@ -1,0 +1,49 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    overflow-y: scroll;
+}
+
+
+h1{
+    display: table-footer-group;
+    align-items: flex-end;
+    justify-content: flex-start;
+    font-size: 250px;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: blue;
+}
+
+h1{
+    background-color: black;
+}
+
+
+
+h7{
+    display: table-footer-group;
+    align-items: flex-end;
+    justify-content: flex-start;
+    font-size: 250px;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: red;
+}
+
+h{
+    background-color: black;
+}
+
+
+
+
+body{
+    background-color: white;
+}
